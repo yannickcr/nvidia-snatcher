@@ -29,12 +29,16 @@ import {Coolmod} from './coolmod';
 import {Currys} from './currys';
 import {Cyberport} from './cyberport';
 import {Ebuyer} from './ebuyer';
+import {Cybertek} from './cybertek';
 import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Galaxus} from './galaxus';
 import {Game} from './game';
 import {Gamestop} from './gamestop';
 import {Kabum} from './kabum';
+import {HardwareFr} from './hardwarefr';
+import {LDLC} from './ldlc';
+import {MaterielNet} from './materielnet';
 import {Mediamarkt} from './mediamarkt';
 import {MemoryExpress} from './memoryexpress';
 import {MicroCenter} from './microcenter';
@@ -93,12 +97,16 @@ export const storeList = new Map([
 	[Currys.name, Currys],
 	[Cyberport.name, Cyberport],
 	[Ebuyer.name, Ebuyer],
+	[Cybertek.name, Cybertek],
 	[Evga.name, Evga],
 	[EvgaEu.name, EvgaEu],
 	[Galaxus.name, Galaxus],
 	[Game.name, Game],
 	[Gamestop.name, Gamestop],
 	[Kabum.name, Kabum],
+	[HardwareFr.name, HardwareFr],
+	[LDLC.name, LDLC],
+	[MaterielNet.name, MaterielNet],
 	[Mediamarkt.name, Mediamarkt],
 	[MemoryExpress.name, MemoryExpress],
 	[MicroCenter.name, MicroCenter],
