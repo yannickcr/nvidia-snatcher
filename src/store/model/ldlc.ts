@@ -83,6 +83,12 @@ export const LDLC: Store = {
 		{
 			brand: 'asus',
 			model: 'strix oc',
+			series: '3080',
+			url: 'https://www.ldlc.com/fiche/PB00375431.html'
+		},
+		{
+			brand: 'asus',
+			model: 'strix oc',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00369849.html'
 		},

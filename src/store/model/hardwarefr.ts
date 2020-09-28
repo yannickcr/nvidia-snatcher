@@ -95,6 +95,12 @@ export const HardwareFr: Store = {
 		{
 			brand: 'asus',
 			model: 'strix oc',
+			series: '3080',
+			url: 'https://shop.hardware.fr/fiche/AR202009090076.html'
+		},
+		{
+			brand: 'asus',
+			model: 'strix oc',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009090081.html'
 		},
