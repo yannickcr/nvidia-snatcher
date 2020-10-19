@@ -28,8 +28,8 @@ import {Coolblue} from './coolblue';
 import {Coolmod} from './coolmod';
 import {Currys} from './currys';
 import {Cyberport} from './cyberport';
-import {Ebuyer} from './ebuyer';
 import {Cybertek} from './cybertek';
+import {Ebuyer} from './ebuyer';
 import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Galaxus} from './galaxus';
@@ -96,8 +96,8 @@ export const storeList = new Map([
 	[Coolmod.name, Coolmod],
 	[Currys.name, Currys],
 	[Cyberport.name, Cyberport],
-	[Ebuyer.name, Ebuyer],
 	[Cybertek.name, Cybertek],
+	[Ebuyer.name, Ebuyer],
 	[Evga.name, Evga],
 	[EvgaEu.name, EvgaEu],
 	[Galaxus.name, Galaxus],

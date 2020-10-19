@@ -259,6 +259,18 @@ export const LDLC: Store = {
 			model: 'ftw3 ultra gaming',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369299.html'
+		},
+		{
+			brand: 'nvidia',
+			model: 'founders edition',
+			series: '3080',
+			url: 'https://www.ldlc.com/fiche/PB00383358.html'
+		},
+		{
+			brand: 'nvidia',
+			model: 'founders edition',
+			series: '3090',
+			url: 'https://www.ldlc.com/fiche/PB00383360.html'
 		}
 	],
 	name: 'ldlc'
