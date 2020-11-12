@@ -34,7 +34,7 @@ export const Cybertek: Store = {
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8',
+			model: 'xlr8 revel',
 			series: '3080',
 			url: 'https://www.cybertek.fr/carte-graphique/pny/50044.aspx'
 		},
@@ -58,7 +58,7 @@ export const Cybertek: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3080',
 			url: 'https://www.cybertek.fr/carte-graphique/palit/50552.aspx'
 		},
@@ -94,7 +94,7 @@ export const Cybertek: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro oc',
+			model: 'gaming pro oc',
 			series: '3080',
 			url: 'https://www.cybertek.fr/carte-graphique/palit/50622.aspx'
 		},
@@ -130,13 +130,13 @@ export const Cybertek: Store = {
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8',
+			model: 'xlr8 revel',
 			series: '3090',
 			url: 'https://www.cybertek.fr/carte-graphique/pny/50043.aspx'
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3090',
 			url: 'https://www.cybertek.fr/carte-graphique/palit/50550.aspx'
 		},
@@ -160,7 +160,7 @@ export const Cybertek: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro oc',
+			model: 'gaming pro oc',
 			series: '3090',
 			url: 'https://www.cybertek.fr/carte-graphique/palit/50549.aspx'
 		},

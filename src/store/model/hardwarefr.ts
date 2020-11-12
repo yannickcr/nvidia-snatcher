@@ -34,7 +34,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3080',
 			url: 'https://shop.hardware.fr/fiche/AR202009090101.html'
 		},
@@ -82,13 +82,13 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3080',
 			url: 'https://shop.hardware.fr/fiche/AR202009080100.html'
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3080',
 			url: 'https://shop.hardware.fr/fiche/AR202009090099.html'
 		},
@@ -106,7 +106,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009090106.html'
 		},
@@ -130,7 +130,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro oc',
+			model: 'gaming pro oc',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009080097.html'
 		},
@@ -160,13 +160,13 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009090107.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009090109.html'
 		},
@@ -190,7 +190,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009080098.html'
 		},
@@ -202,7 +202,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3090',
 			url: 'https://shop.hardware.fr/fiche/AR202009090103.html'
 		},
@@ -238,7 +238,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3080',
 			url: 'https://shop.hardware.fr/fiche/AR202009090100.html'
 		},
@@ -250,7 +250,7 @@ export const HardwareFr: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3080',
 			url: 'https://shop.hardware.fr/fiche/AR202009100088.html'
 		},

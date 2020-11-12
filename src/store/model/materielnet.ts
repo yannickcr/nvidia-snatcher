@@ -58,13 +58,13 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009090099.html'
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8 rgb',
+			model: 'xlr8 revel',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009070041.html'
 		},
@@ -76,7 +76,7 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009090101.html'
 		},
@@ -94,7 +94,7 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009090100.html'
 		},
@@ -118,7 +118,7 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8 rgb',
+			model: 'xlr8 revel',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009070039.html'
 		},
@@ -142,13 +142,13 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009090106.html'
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8 rgb',
+			model: 'xlr8 revel',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009070038.html'
 		},
@@ -160,7 +160,7 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009090103.html'
 		},
@@ -172,19 +172,19 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009100088.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009090107.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3090',
 			url: 'https://www.materiel.net/produit/202009090109.html'
 		},
@@ -220,7 +220,7 @@ export const MaterielNet: Store = {
 		},
 		{
 			brand: 'pny',
-			model: 'xlr8 rgb',
+			model: 'xlr8 revel',
 			series: '3080',
 			url: 'https://www.materiel.net/produit/202009070040.html'
 		}

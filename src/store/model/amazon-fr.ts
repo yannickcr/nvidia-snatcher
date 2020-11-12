@@ -168,28 +168,32 @@ export const AmazonFr: Store = {
 		},
 		{
 			brand: 'asus',
-			cartUrl: 'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN6KYS3&Quantity.1=1',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN6KYS3&Quantity.1=1',
 			model: 'strix oc',
 			series: '3080',
 			url: 'https://www.amazon.fr/dp/B08HN6KYS3'
 		},
 		{
 			brand: 'asus',
-			cartUrl: 'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN51T8Q&Quantity.1=1',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN51T8Q&Quantity.1=1',
 			model: 'strix oc',
 			series: '3090',
 			url: 'https://www.amazon.fr/dp/B08HN51T8Q'
 		},
 		{
 			brand: 'asus',
-			cartUrl: 'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN7VVLJ&Quantity.1=1',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN7VVLJ&Quantity.1=1',
 			model: 'strix',
 			series: '3080',
 			url: 'https://www.amazon.fr/dp/B08HN7VVLJ'
 		},
 		{
 			brand: 'asus',
-			cartUrl: 'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN642LY&Quantity.1=1',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08HN642LY&Quantity.1=1',
 			model: 'strix',
 			series: '3090',
 			url: 'https://www.amazon.fr/dp/B08HN642LY'

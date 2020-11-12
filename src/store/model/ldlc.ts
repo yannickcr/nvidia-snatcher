@@ -46,7 +46,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369265.html'
 		},
@@ -76,7 +76,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374912.html'
 		},
@@ -100,19 +100,19 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374628.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 gaming',
+			model: 'ftw3',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374838.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374837.html'
 		},
@@ -130,7 +130,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro oc',
+			model: 'gaming pro oc',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374914.html'
 		},
@@ -178,7 +178,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3090',
 			url: 'https://www.ldlc.com/fiche/PB00374631.html'
 		},
@@ -202,7 +202,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'palit',
-			model: 'gamingpro',
+			model: 'gaming pro',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369094.html'
 		},
@@ -220,7 +220,7 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 ultra gaming',
+			model: 'xc3 ultra',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369303.html'
 		},
@@ -250,13 +250,13 @@ export const LDLC: Store = {
 		},
 		{
 			brand: 'evga',
-			model: 'xc3 gaming',
+			model: 'xc3',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369268.html'
 		},
 		{
 			brand: 'evga',
-			model: 'ftw3 ultra gaming',
+			model: 'ftw3 ultra',
 			series: '3080',
 			url: 'https://www.ldlc.com/fiche/PB00369299.html'
 		},
