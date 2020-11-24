@@ -16,6 +16,7 @@ import {Arlt} from './arlt';
 import {Asus} from './asus';
 import {AsusDe} from './asus-de';
 import {AsusFr} from './asus-fr';
+import {AsusSearchFr} from './asus-search-fr';
 import {Azerty} from './azerty';
 import {BAndH} from './bandh';
 import {BestBuy} from './bestbuy';
@@ -57,6 +58,7 @@ import {PlayStation} from './playstation';
 import {Pny} from './pny';
 import {ProshopDE} from './proshop-de';
 import {ProshopDK} from './proshop-dk';
+import {RueDuCommerce} from './rueducommerce';
 import {Saturn} from './saturn';
 import {Scan} from './scan';
 import {Store} from './store';
@@ -84,6 +86,7 @@ export const storeList = new Map([
 	[Arlt.name, Arlt],
 	[Asus.name, Asus],
 	[AsusDe.name, AsusDe],
+	[AsusSearchFr.name, AsusSearchFr],
 	[AsusFr.name, AsusFr],
 	[Azerty.name, Azerty],
 	[BAndH.name, BAndH],
@@ -126,6 +129,7 @@ export const storeList = new Map([
 	[Pny.name, Pny],
 	[ProshopDE.name, ProshopDE],
 	[ProshopDK.name, ProshopDK],
+	[RueDuCommerce.name, RueDuCommerce],
 	[Saturn.name, Saturn],
 	[Scan.name, Scan],
 	[Target.name, Target],
